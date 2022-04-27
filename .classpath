@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_311">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/ISET-RADES/2021/L2-DSI-2020-2021/S4/04-Atelier Environnement de Développement/LOG/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/com.sun.jersey.jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-server-1.17.1.jar" sourcepath="C:/Users/med/.m2/repository/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/med/Desktop/IsetRades/S5/09-SOA ET ATELIER SOA/00/jersey-20220123T130708Z-001/jersey/stax-api-1.0-2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
